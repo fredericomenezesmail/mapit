@@ -1,1 +1,1 @@
-web: gunicorn --preload tottem:app
+web: gunicorn tottem:app --preload --workers 1
