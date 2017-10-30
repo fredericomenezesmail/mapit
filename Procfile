@@ -1,1 +1,1 @@
-web: gunicorn tottem:app
+web: gunicorn --preload tottem:app
