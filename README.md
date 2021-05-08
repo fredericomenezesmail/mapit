@@ -1,2 +1,2 @@
 # tottem
-App to invest in dev projects!!
+App for a personal media server!!
